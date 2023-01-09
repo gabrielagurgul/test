@@ -1,0 +1,11 @@
+C:\DW\RapidDevelopment\KeyVault\src\RapidRevelopment.KeyVault.Abstract.Demo\bin\Publish\RapidRevelopment.KeyVault.Abstract.Demo.exe
+C:\DW\RapidDevelopment\KeyVault\src\RapidRevelopment.KeyVault.Abstract.Demo\bin\Publish\appsettings.Development.json
+C:\DW\RapidDevelopment\KeyVault\src\RapidRevelopment.KeyVault.Abstract.Demo\bin\Publish\appsettings.json
+C:\DW\RapidDevelopment\KeyVault\src\RapidRevelopment.KeyVault.Abstract.Demo\bin\Publish\RapidRevelopment.KeyVault.Abstract.Demo.dll
+C:\DW\RapidDevelopment\KeyVault\src\RapidRevelopment.KeyVault.Abstract.Demo\bin\Publish\RapidRevelopment.KeyVault.Abstract.Demo.deps.json
+C:\DW\RapidDevelopment\KeyVault\src\RapidRevelopment.KeyVault.Abstract.Demo\bin\Publish\RapidRevelopment.KeyVault.Abstract.Demo.runtimeconfig.json
+C:\DW\RapidDevelopment\KeyVault\src\RapidRevelopment.KeyVault.Abstract.Demo\bin\Publish\RapidRevelopment.KeyVault.Abstract.Demo.pdb
+C:\DW\RapidDevelopment\KeyVault\src\RapidRevelopment.KeyVault.Abstract.Demo\bin\Publish\Microsoft.OpenApi.dll
+C:\DW\RapidDevelopment\KeyVault\src\RapidRevelopment.KeyVault.Abstract.Demo\bin\Publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\DW\RapidDevelopment\KeyVault\src\RapidRevelopment.KeyVault.Abstract.Demo\bin\Publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\DW\RapidDevelopment\KeyVault\src\RapidRevelopment.KeyVault.Abstract.Demo\bin\Publish\Swashbuckle.AspNetCore.SwaggerUI.dll
